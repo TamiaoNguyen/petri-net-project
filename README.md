@@ -9,5 +9,3 @@ Password: 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<br>
 Vào VSCode >> File >> Open Project >> Chọn folder petri-nets-project<br>
 Nhập vào branch bằng cách: git fetch và git checkout feature/tên-branch<br>
 Viết code xong có thể đẩy branch lên github: git push -u origin feature/tên-branch<br>
-Sau khi sửa xong dùng lệnh git push để cập nhật lên git hub<br>
-Để cập nhật thay đổi trên git hub về máy dùng lệnh git pull<br>
